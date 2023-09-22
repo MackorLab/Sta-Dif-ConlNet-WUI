@@ -2,10 +2,7 @@ import gradio as gr
 
 from diffusion_webui import (
     StableDiffusionControlNetGenerator,
-    StableDiffusionControlNetInpaintGenerator,
-    StableDiffusionImage2ImageGenerator,
-    StableDiffusionInpaintGenerator,
-    StableDiffusionText2ImageGenerator,
+    
 )
 
 
